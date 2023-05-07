@@ -1,6 +1,8 @@
 # Food preference form.
 
-Creation of form to get user's food preference
+## Welcome! 👋🤗 
+
+Thanks for checking out this Food Preference form.
 
 ## Form is created with basic 
 
